@@ -9,9 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@auth/mongodb-adapter": "^3.7.0",
     "@tailwindcss/forms": "^0.5.9",
     "cloudinary": "^2.5.1",
-    "mongodb": "^4.17.2",
+    "mongodb": "^6.9.0",
     "mongodb-client-encryption": "^6.1.0",
     "mongoose": "^8.7.1",
     "next": "^14.2.15",
