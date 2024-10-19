@@ -14,9 +14,10 @@
     "cloudinary": "^2.5.1",
     "mongodb": "^6.9.0",
     "mongodb-client-encryption": "^6.1.0",
-    "mongoose": "^8.7.1",
+    "mongoose": "^8.7.2",
     "next": "^14.2.15",
     "next-auth": "^5.0.0-beta.22",
+    "next-cloudinary": "^6.15.0",
     "next-themes": "^0.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -29,7 +30,7 @@
     "eslint": "^8",
     "eslint-config-next": "14.2.15",
     "postcss": "^8.4.47",
-    "tailwindcss": "^3.4.13",
+    "tailwindcss": "^3.4.14",
     "typescript": "^5.6.3"
   }
 }
