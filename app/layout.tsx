@@ -7,7 +7,7 @@ import ThemeProvider from '../components/ThemeProvider'
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 
 export const metadata = {
-  title: 'Video Upload App',
+  title: 'Lookym App',
   description: 'Una aplicación moderna para subir videos de tiendas',
 }
 
